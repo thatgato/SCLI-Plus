@@ -9,6 +9,7 @@
 
 #include <mutex>
 #include <fstream>
+#include <memory>
 #include <unordered_map>
 
 #include "Color.hpp"

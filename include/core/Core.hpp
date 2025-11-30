@@ -6,9 +6,9 @@
 
 #pragma once
 #include <memory>
+#include <queue>
 #include <unordered_map>
 #include <vector>
-#include <__fwd/queue.h>
 
 #include "Page.hpp"
 

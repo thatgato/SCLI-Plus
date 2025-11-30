@@ -5,6 +5,7 @@
 // See the LICENSE file for more information.
 
 #pragma once
+#include <cstdint>
 #include <string>
 #include <unordered_map>
 
